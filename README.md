@@ -21,3 +21,14 @@
 ### - Hardware: 
 
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /> <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+
+
+</p>
+  <br>
+  <p align="left">
+     <strong>
+           <i>“The Earth is the cradle of humanity, but one cannot live in the cradle forever.”</i>
+    <br><br>
+    — Konstantin Tsiolkovsky, in 1911
+     </strong>
+  </p>
