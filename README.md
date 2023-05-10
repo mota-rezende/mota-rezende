@@ -1,5 +1,7 @@
-## Hello! I'm Lucas Rezende Mota
+## Olá! Me chamo Lucas Rezende Mota 👋
 
--   📚 I'm student of aerospace engineering and bachelor of science and technology at the Federal University of ABC.
--   🖥️ Languages Python and Matlab.
--   
+-   🛰️ Estudante de Engenharia Aeroespacial e do Bacharelado em Ciência e Tecnologia na UFABC (Universidade Federal do ABC);
+-   🚀	Realizo iniciação científica em simulação computacional de trajetórias de foguetes;
+-   💻 Interesse pelas linguagens Python, C, Matlab e Fortran;
+-   🐧	Entusiasta de software livre;
+-   📬	Contatos: lucas.rezendee@outlook.com  ou  mota.rezende@protonmail.com
