@@ -1,7 +1,6 @@
 
 
 •    🛰️ Estudante de Engenharia Aeroespacial e do Bacharelado em Ciência e Tecnologia na [UFABC (Universidade Federal do ABC)](https://www.ufabc.edu.br/);
-<br>
 •    🚀	Realizo iniciação científica em simulação computacional de trajetórias de foguetes;
 <br>
 •    💻 Interesse pelas linguagens Python, C, Matlab e Fortran;
