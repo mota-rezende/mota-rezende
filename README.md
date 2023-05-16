@@ -1,4 +1,4 @@
-## Hello!👋 🇧🇷🏴‍☠️☢️
+## Olá!!👋
 
 •    🛰️ Estudante de Engenharia Aeroespacial e do Bacharelado em Ciência e Tecnologia na [UFABC (Universidade Federal do ABC)](https://www.ufabc.edu.br/);
 <br>
