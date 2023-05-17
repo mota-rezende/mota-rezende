@@ -10,3 +10,5 @@
 <br>
 •    📬	Contatos: lucas.rezendee@outlook.com  ou  mota.rezende@protonmail.com 
 <br>
+
+![Lubuntu](https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white)
