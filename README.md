@@ -11,6 +11,5 @@
 •    📬	Contatos: lucas.rezendee@outlook.com  ou  mota.rezende@protonmail.com 
 <br>
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/mota-rezende)
-
+![mota-rezende's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mota-rezende&theme=default&show_icons=true&hide_border=false&layout=compact)
 
