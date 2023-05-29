@@ -7,7 +7,7 @@
 •    🚀	Scientific Initiation Researcher in computer simulation of rocket trajectories with Matlab;
 <br>
 
-•    📚 Knowledge in programming, computing (software and hardware), electronics and mechanics;
+•    📚 Knowledge in programming, computing (software and hardware), electronics and mechanics.
 <br>
 
 ### Contacts:
