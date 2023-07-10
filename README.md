@@ -7,9 +7,6 @@
 •    🚀	Scientific Initiation Researcher in computer simulation of rocket trajectories with Matlab;
 <br>
 
-•    📚 Knowledge in programming, computing (software and hardware), electronics and mechanics.
-<br>
-
 ### Contacts:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rezende-mota-7478aa189/)
