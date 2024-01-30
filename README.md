@@ -3,9 +3,7 @@
 ## About me:
 •    🎓 Student of Aerospace Engineering and Bachelor of Science and Technology at [UFABC (Federal University of ABC)](https://www.ufabc.edu.br/);
 <br>
-•    💵 Looking for an Internship opportunity at financial market;
-<br>
-•    🚀	Scientific Initiation Researcher in computer simulation of rocket trajectories with Matlab;
+•    💵 Interest in themes related of Financial Market and automation of process.
 <br>
 
 ### Contacts:
