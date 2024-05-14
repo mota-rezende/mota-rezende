@@ -3,7 +3,7 @@
 ## About me:
 •    🎓 Student of Aerospace Engineering and Bachelor of Science and Technology at [UFABC (Federal University of ABC)](https://www.ufabc.edu.br/);
 <br>
-•    💵 Interest in themes related of Financial Market and automation of process.
+•    💵 Interest in themes related of Financial Market and Data Science.
 <br>
 
 ### Contacts:
